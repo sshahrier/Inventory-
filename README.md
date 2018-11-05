@@ -36,4 +36,4 @@ cmd = input('\nHello, ' + username + '\nHow may I help you?\n[C]reate new produc
 ```
 ## References
 
-* [StackOverflow](https://stackoverflow.com/questions/50771281/trying-to-set-up-a-simple-inventory-management-program - Stack Overflow is a question and answer site for professional and enthusiast programmers. It is primarily used as a forum to help address questions and provide a collaborated community to answer programming/code related issues. 
+* [StackOverflow] (https://stackoverflow.com/questions/50771281/trying-to-set-up-a-simple-inventory-management-program) - Stack Overflow is a question and answer site for professional and enthusiast programmers. It is primarily used as a forum to help address questions and provide a collaborated community to answer programming/code related issues. 
