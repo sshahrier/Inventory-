@@ -3,7 +3,7 @@
 Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track 
 of various products and can sum up the inventory value.
 
-(insert image here)
+![alt text](https://resources.cin7.com/wp-content/uploads/2017/05/The-6-Must-Haves-of-Inventory-Management-for-SMBs-862x3$
 
 ## Project Description
 
