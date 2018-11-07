@@ -1,8 +1,5 @@
 # Inventory Project
 
-Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track 
-of various products and can sum up the inventory value.
-
 ![inv](https://user-images.githubusercontent.com/11141681/48005646-f0fa5080-e0e1-11e8-852a-dcc35b5b4e8e.png)
 
 ## Project Description
